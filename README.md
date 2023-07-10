@@ -1,10 +1,9 @@
 # README
-
-This is repository for graduation theses project. Main focus is on frontend side, especially on setting up Redux and managing state and data flows within React application. Api is developed using Sprin Boot technology.
+This is a repository for graduation theses project. The masin focus is on the front-end side, especially on setting up and structuring React Redux app, and managing state and data flows within the application. API is developed using Spring Boot technology.
 
 Author: Jelena Kičić
 
-Theme: React applications state mangement.
+Theme: React applications state management.
 
 ### How do I get set up?
 
@@ -13,7 +12,7 @@ Theme: React applications state mangement.
 ### How to run frontend?
 
 - Make sure API is up and running
-- Navigate to frontend directory
+- Navigate to front-end directory
 - Run `npm install`
 - Run `npm start`
 - App is now available on http://localhost:3000

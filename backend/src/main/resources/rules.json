@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "methods": [
+        "GET","POST"
+      ],
+      "pattern": "/expenses",
+      "roles": [
+        "user"
+      ]
+    },
+    {
+      "methods": [
+        "PUT", "DELETE"
+      ],
+      "pattern": "/expenses/*",
+      "roles": [
+        "user"
+      ]
+    },
+    {
+      "methods": [
+        "GET","POST"
+      ],
+      "pattern": "/categories",
+      "roles": [
+        "user"
+      ]
+    },
+    {
+      "methods": [
+        "DELETE"
+      ],
+      "pattern": "/categories/*",
+      "roles": [
+        "user"
+      ]
+    }
+  ]
+}
