@@ -9,13 +9,13 @@ Theme: React applications state management.
 
 - Make sure you have Node >= v14.18.2 and Npm >= v8.15.0 installed
 
-### How to run frontend?
+### How to run app?
 
 - Make sure API is up and running
 - Create config directory in src directory with config.json file inisde, file content should be:
 ```json
 {
-  "api": "address of your api"
+  "api": "address of the api"
 }
 ```
 - Navigate to front-end directory
