@@ -12,6 +12,12 @@ Theme: React applications state management.
 ### How to run frontend?
 
 - Make sure API is up and running
+- Create config directory in src directory with config.json file inisde, file content should be:
+```json
+{
+  "api": "address of your api"
+}
+```
 - Navigate to front-end directory
 - Run `npm install`
 - Run `npm start`
