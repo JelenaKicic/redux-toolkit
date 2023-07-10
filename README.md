@@ -7,7 +7,7 @@ Theme: React applications state management.
 
 ### How do I get set up?
 
-- Make sure you have Node v14.18.2 and Npm v8.15.0 installed
+- Make sure you have Node >= v14.18.2 and Npm >= v8.15.0 installed
 
 ### How to run frontend?
 
